@@ -1,6 +1,6 @@
 import React from 'react';
 import CityForm from './CityForm'
-
+import {API} from '../api'
 
 
 class App extends React.Component {
@@ -27,4 +27,4 @@ class App extends React.Component {
     }
 }
 
-export default App;
+export default App
